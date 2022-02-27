@@ -1,6 +1,7 @@
 package DataHiding;
 
 public class Person {
+    //data hiding
     private int age;
 
 
