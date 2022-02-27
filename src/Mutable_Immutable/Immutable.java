@@ -1,6 +1,6 @@
 package Mutable_Immutable;
 
-public class Immutable {
+public final class Immutable {
     private int first;
     private int second;
 

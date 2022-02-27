@@ -31,3 +31,16 @@ public class Mutable {
         return this.first + this.second;
     }
 }
+
+
+
+/*
+ 1, we can change the object's value such as fields and states after
+object is created. rg. StringBuffer
+2. it provide method to change the object
+3. it support get(), and set() methods to deals with object.
+
+
+
+
+ */
